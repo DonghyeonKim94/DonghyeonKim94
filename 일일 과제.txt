@@ -1,0 +1,17 @@
+homework
+-  lab.ssafy.com 에서  ssafy  8기 서울3반에서 올라온 과제 누르고 
+git bash를 JUST_PULL_HERE 에서 한 후 git clone (랩싸피의 과제 Clone with HTTPS 복사된url)
+
+live lecture은 안에 들어가서 개별 폴더에서 진행
+
+이후 김동현 / hws 에 업로드 (업로드 시 폴더를 만들고 그 폴더 이름을 날짜로 예) 0718)
+
+ssafygit ( project.ssafy 에듀싸피에서 우측상단배너)
+
+ - 온라인 실습실은 master branch로 바꿔야함
+
+push 방법(master가 떠있어야함)
+hws안에 들어가면 master로 뜬다 git status 후  push  순서는 add commit push
+git add 'file명'
+git commit -m 'message'
+git push          //(최초에는 git push -u origin master)
